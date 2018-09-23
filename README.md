@@ -1,2 +1,9 @@
 # raindrops-100
-Inspired by http://geometrydaily.tumblr.com/post/56876400759/495-garden-a-new-minimal-geometric-composition
+
+// raindrops_100 by Rupert Russell
+// September 23 2018
+// Code on Github at: https://github.com/rupertrussell/raindrops-100
+// Artwork on Redbubble at: 
+// Inspired by http://geometrydaily.tumblr.com/post/56876400759/495-garden-a-new-minimal-geometric-composition
+// #495 Garden – A new minimal geometric composition each day
+
